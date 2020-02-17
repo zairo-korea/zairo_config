@@ -14,7 +14,6 @@ let g:UltiSnipsJumpForwardTrigger="<tab>"
 let g:UltiSnipsJumpBackwardTrigger="<s-tab>"
 let g:UltiSnipsEditSplit="vertical"
 
-color space-vim-dark
 set termguicolors
 set tabstop=4
 set shiftwidth=4
